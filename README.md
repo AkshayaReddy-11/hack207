@@ -151,6 +151,7 @@ Final Decision →
 
 ---
 
+
 ## 🌍 Impact
 
 - 🏢 Enterprise Security Enhancement  
@@ -178,5 +179,7 @@ MalwareGuard AI is a **next-generation cybersecurity solution** that ensures:
 > ✔ Who is executing is legitimate  
 
 It brings **intelligence, transparency, and automation** into modern security systems.
+
+This project is maintained by Akshaya Reddy.
 
 ---
